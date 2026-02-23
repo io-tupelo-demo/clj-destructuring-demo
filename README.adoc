@@ -1,7 +1,8 @@
 
-= Clojure Map Destructing Demo
+= Clojure Destructing Demo
 
-Live examples (via unit tests) of Clojure map destructuring techniques
+Live examples (via unit tests) of Clojure destructuring techniques, including map destructuring,
+sequence destructuring, and function argument destructuring.
 
 == Overview
 
